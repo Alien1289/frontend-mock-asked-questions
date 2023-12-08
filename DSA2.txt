@@ -1,0 +1,40 @@
+Topics tested *
+
+Modulo Arithmatics
+
+Linked List
+
+Circular Linked LIst
+
+Prime numbers
+
+=============================
+
+Stack
+You are given a sequence of n positive integers, and let's say you are filling a stack by adding elements of this sequence one by one starting from the first element. and whenever the element which you are going to add to the stack has set bits equal to the set bits of the top element of the stack, then the top element pops out of the stack and current remains as it is. This operation continues, till the current element set bits are not equal to the set bits of top of the stack.
+
+Modulo Arithmatics
+Define modulo arithmetic and explain its significance in programming
+Given an integer N, find the sum of i*j for each pair (i, j) such that 1 <= i < j <= N.
+
+Since the answer can be large, output it modulo 10<sup>9</sup>+7.
+<b>Note</b>
+Look at the explanation in Sample Input and Output section.
+
+Linked List
+Provide a step- by- step explanation of the process of inserting a new node at the beginning of a Single Linked List.
+
+Circular Linked LIst
+Define a Circular Linked List and discuss its unique feature that sets it apart from other types of linked lists
+
+Prime numbers
+Explain the Sieve of Eratosthenes method for finding prime numbers up to a given limit.
+
+========================================
+
+AI ----
+
+1.Define modulo arithmetic and explain its significance in programming
+2.Provide a step- by- step explanation of the process of inserting a new node at the beginning of a Single Linked List.
+3.Define a Circular Linked List and discuss its unique feature that sets it apart from other types of linked lists
+4.Explain the Sieve of Eratosthenes method for finding prime numbers up to a given limit.
