@@ -1,0 +1,43 @@
+questions asked in frontend mock :
+
+
+HTML
+- What is a DOM ?
+- Can I have multiple element with same ID
+- What is difference between document & Window object. 
+- What is the difference between div and span tag
+
+CSS
+- What is Box Model ? 
+- What are the selectors present in CSS
+- What is the difference between logical tag and physical tag ? 
+- Difference between percentage and Pixel
+- What are responsive design means
+
+JavaScript 
+
+- What are primitive and non-primitive datatype in JavaScript?
+- Difference between Let & Var
+-Explain Hoisting in JavaScript.
+- What is event delegation ?
+- What is event bubbling ?
+- Explain Implicit Type Coercion in JavaScript.
+- What is immediately invoked function 
+- Explain Higher Order Functions in JavaScript.
+- What is callback 
+- What is closure
+- What is Promises
+- What is even loop
+- What is deep and shallow copy
+
+
+- const person = { age: 20, name: 'Hemant' };  
+const peopleArray = [person, person, person]; 
+peopleArray[1].name = 'Singh'; console.log(peopleArray[0].name);
+
+- What is the Output of for(var i=0;i<10;i++) { } console.log(i);
+
+- What is the output. var x = 3; var y = "3"; console.log(y-x);
+
+- call this api and show the result on HTML page
+API - https://gorest.co.in/public/v2/users
