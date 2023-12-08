@@ -32,9 +32,3 @@ Explain the Sieve of Eratosthenes method for finding prime numbers up to a given
 
 ========================================
 
-AI ----
-
-1.Define modulo arithmetic and explain its significance in programming
-2.Provide a step- by- step explanation of the process of inserting a new node at the beginning of a Single Linked List.
-3.Define a Circular Linked List and discuss its unique feature that sets it apart from other types of linked lists
-4.Explain the Sieve of Eratosthenes method for finding prime numbers up to a given limit.
